@@ -1,0 +1,51 @@
+.footer{
+    background-color: black;
+    color: white;
+    padding-bottom: 100px;
+}
+.footer_content{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.footer_content p, .footer_content h1{
+    line-height: 2;
+}
+
+.footer_content .footer_head{
+    margin-top: 20px;
+}
+.footer_head span{
+    color: red;
+}
+.footer_mail{
+    display:flex;
+    align-items: center;
+    text-align: center;
+    gap: 20px;
+
+}
+.footer_input input{
+    padding: 4px;
+}
+
+
+.footer_media{
+    display:flex;
+    gap: 90px;
+    margin-top: 12px;
+}
+.footer_media button{
+    padding: 4px;
+    color: red;
+    background-color: white;
+    border-radius: 9px;
+}
+.footer_media .social_media{
+    gap: 20px;
+    display: flex;
+}
+

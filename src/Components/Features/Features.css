@@ -1,0 +1,37 @@
+.features{
+    
+    display: flex;
+}
+.features_{
+    align-items: center;
+    justify-content: center;
+    padding-top: 100px;
+    background-color:#dcdcdc ;
+}
+.features_ h1{
+    margin-left: 40px;
+}
+.featureCard img{
+    width: 100%;
+    height: 290px;
+    transform: scale(0.96);
+}
+.featureImg{
+    background-color: white;
+    box-shadow: 2px 4px 9px 3px ;
+    
+}
+.features .cards{
+    display: flex;
+}
+.rating{
+    color: gold;
+    cursor: pointer;
+}
+.features_content{
+    margin-top: 25px;
+}
+.featurePrice{
+    font-size: 30px;
+    color: brown;
+}
